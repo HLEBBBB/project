@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "5c6306a0-ca76-41c0-85d6-4e73ad1adc65",
+      "title": "енгенг",
+      "body": "егенг",
+      "nickName": "sdfsdfsf",
+      "date": "08.11.2022"
+    },
+    {
+      "id": "e8894653-e3fc-4ef5-8aaa-3d93fa75695c",
+      "title": "енгенг",
+      "body": "егнегенг",
+      "nickName": "sdfsdfsf",
+      "date": "08.11.2022"
+    },
+    {
+      "id": "74a789af-58ba-4e60-9859-5e21f6b581a2",
+      "title": "енгенг",
+      "body": "егнегенг",
+      "nickName": "sdfsdfsf",
+      "date": "08.11.2022"
+    },
+    {
+      "id": "6242b37a-dc7f-4683-b618-597b30fba0a9",
+      "title": "енгенг",
+      "body": "егнегенг",
+      "nickName": "sdfsdfsf",
+      "date": "08.11.2022"
+    },
+    {
+      "id": "2c7e8dff-8042-48e6-96b6-c5ecd9a3b4e9",
+      "title": "ПРИвет",
+      "body": "жопа",
+      "date": "22.11.2022"
+    }
+  ],
+  "user": [
+    {
+      "firstName": "Hleb",
+      "lastName": "Mentus",
+      "age": "34",
+      "img": "",
+      "nickName": "sdfsdfsf",
+      "id": 1
+    }
+  ],
+  "foto": []
+}
